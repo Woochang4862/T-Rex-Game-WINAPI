@@ -1,2 +1,33 @@
-﻿  GameScene.cpp
-  Framework.vcxproj -> C:\Users\Sunrin-08\Desktop\Framework_프로젝트용 _1105수정\x64\Debug\Framework.exe
+﻿  AABBCollider.cpp
+  Animation.cpp
+  AnimationRenderer.cpp
+  Audio.cpp
+  CircleCollider.cpp
+  Collider.cpp
+  Collision.cpp
+  Component.cpp
+  D2DApp.cpp
+  Framework.cpp
+  GameObject.cpp
+  GameOverText.cpp
+  GameScene.cpp
+  Ground1.cpp
+  Ground2.cpp
+  InputManager.cpp
+  ListAnimation.cpp
+  main.cpp
+  Number.cpp
+  Obstacle.cpp
+  Player.cpp
+  Renderer.cpp
+  ReplayIcon.cpp
+  ResourceManager.cpp
+  Scene.cpp
+  SheetAnimation.cpp
+  SoundEvent.cpp
+  TestObject.cpp
+  TestScene2.cpp
+  TimeManager.cpp
+  Transform.cpp
+  WinApp.cpp
+  Framework.vcxproj -> C:\Users\Sunrin-08\Desktop\T-Rex-Game-WINAPI\x64\Debug\Framework.exe
